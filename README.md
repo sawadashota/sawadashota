@@ -1,8 +1,8 @@
-# Hi, I'm Shota 👋
+### Hi, I'm Shota 👋
 
 Platform Engineer specializing in authentication systems, distributed architectures, and cloud-native solutions.
 
-# 🔍 Interest
+### 🔍 Interest
 
 - Go / Rust
 - Authorization
