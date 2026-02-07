@@ -1,6 +1,6 @@
 ### Hi, I'm Shota 👋
 
-Platform Engineer specializing in authentication systems, distributed architectures, and cloud-native solutions.
+Platform Engineer specializing in authentication/authorization systems, distributed architectures, and cloud-native solutions.
 
 ### 🔍 Interest
 
